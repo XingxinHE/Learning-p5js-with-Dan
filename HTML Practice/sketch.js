@@ -24,5 +24,5 @@ function draw(){
   background(100);
   fill(20);
   noStroke();
-  ellipse(width/2,height/2);
+  ellipse(width/2,height/2,66,66);
 }
